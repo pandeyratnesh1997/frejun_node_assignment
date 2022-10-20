@@ -1,5 +1,11 @@
 # frejun_node_assignment
 
+## Full stack deployed app url
+        https://frejunblogapp.netlify.app/
+
+## Video Explanation of solution
+        https://drive.google.com/file/d/1cv6z_kFGvGC3XEfXybXiwENnd25BvsBO/view?usp=sharing
+
 ## To test api using postman or thunder client
 
 note : server is deployed on heroku.com
@@ -42,6 +48,6 @@ note : server is deployed on heroku.com
             2. npm install axios react-router-dom@6
             3. npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
             4. npm start
-            
+
 
 
