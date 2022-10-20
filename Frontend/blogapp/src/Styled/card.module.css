@@ -1,0 +1,46 @@
+.card_cont{
+ 
+    overflow: auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
+
+.main_cont{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    gap: 15px;
+    margin: 20px;
+
+}
+
+.flexCont{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.BlogCard{
+    width: 40%;
+    height: auto;
+   border: 1px solid black;
+   border-radius: 5px;
+}
+
+.word{
+    font-size: medium;
+    font-weight: 600;
+}
+.list_box{
+    margin: 20px;
+    padding: 20px;
+}
+
+.PostBlog_container{
+    margin: auto;
+    width: 50%;
+    height: 400px;
+    margin-top: 20px;
+}
